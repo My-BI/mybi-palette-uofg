@@ -1,0 +1,28 @@
+GIMP Palette
+Name: University of Glasgow
+Columns: 8
+# MyBI colour palette
+# Primary palette
+  1  20  81	Primary 1
+# Secondary palette
+ 76  38 131	Secondary 1
+166   3 103	Secondary 2
+ 64  93  24	Secondary 3
+  0  83 152	Secondary 4
+125  34  57	Secondary 5
+165 161 206	Secondary 6
+233 139 175	Secondary 7
+129 192 113	Secondary 8
+ 77 187 198	Secondary 9
+242 210  92	Secondary 10
+# Light theme
+  1  20  81	Light Accent
+244 246 251	Light Surface
+215 219 232	Light Border
+# Dark theme
+ 77 187 198	Dark Accent
+ 16  19  28	Dark Surface
+# OLED theme
+ 77 187 198	OLED Accent
+  0   0   0	OLED Background
+  8  10  16	OLED Surface
