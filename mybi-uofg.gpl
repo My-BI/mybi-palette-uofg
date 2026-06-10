@@ -17,12 +17,25 @@ Columns: 8
 242 210  92	Secondary 10
 # Light theme
   1  20  81	Light Accent
+255 255 255	Light Background
 244 246 251	Light Surface
 215 219 232	Light Border
+  1  20  81	Light Selected
+255 255 255	Light Selected Text
+  1  20  81	Light Footer
+244 246 251	Light Icon Rail
 # Dark theme
  77 187 198	Dark Accent
  16  19  28	Dark Surface
+  1  20  81	Dark Selected
+255 255 255	Dark Selected Text
+  1  20  81	Dark Footer
+ 16  19  28	Dark Icon Rail
 # OLED theme
  77 187 198	OLED Accent
   0   0   0	OLED Background
   8  10  16	OLED Surface
+  0   0   0	OLED Selected
+255 255 255	OLED Selected Text
+  0   0   0	OLED Footer
+  0   0   0	OLED Icon Rail
